@@ -8,6 +8,7 @@ public class helloWorld {
 			{
 				System.out.println("The number is - " + i);
 			}
+			System.out.println("The final number is - 3" );
 	}
 
 }
